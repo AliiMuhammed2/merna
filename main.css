@@ -14,10 +14,10 @@
   }
   
   .twenty-one{
-    font-size: 215px;
+    font-size: 190px;
     line-height: 260px;
     color: #fff;
-    margin: 0px 40px;
+    margin: 0px 60px;
   }
   
   .bday{
@@ -70,7 +70,6 @@
   .overlay-static{
     position: relative;
     z-index: 1000;
-    left: 20px;
 }
 
 .pragraph p{
@@ -92,4 +91,5 @@
   }
   audio{
       display: none;
+      z-index:  1000000;;
   }
